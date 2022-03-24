@@ -1,0 +1,6 @@
+_id;id;tipo;user.id;user.name;user.edad;user.telefono;user.educacion;user.estadoCivil;user.genero;user._id;__v;posiciones;posicionesTiempo;posicionesNumericas
+62239fc4b3db1ecc349e87b1;1;28;2;victoria;26;12434332422423432;secundaria;casada;femenino;62239fc4b3db1ecc349e87b2;0
+6223a41ebe76167acb8950b5;4;28;2;victoria;26;12434332422423432;secundaria;casada;femenino;6223a41ebe76167acb8950b6;0
+6223f2713bb48478be2966c6;5;28;2;victoria;26;12434332422423432;secundaria;casada;femenino;6223f2713bb48478be2966c7;0
+6223f3a03bb48478be2966e4;2;28;2;victoria;26;12434332422423432;secundaria;casada;femenino;6223f3a03bb48478be2966e5;0
+6223f3d73bb48478be2966e9;3;28;2;victoria;26;12434332422423432;secundaria;casada;femenino;6223f3d73bb48478be2966ea;0;"casa;panaderia;oficina";"1;2;3";"1;2;3;4"
